@@ -4,9 +4,8 @@
 
 ## Tasks
 
-1) **Fork and clone** this repository into your `W03D03` directory
+1) **Fork and clone** this repository
 
 2) **Do:** [LOTR Vanilla JS](lotr.md)
 
-3) **Submit:** via the [Homework Submissions Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdX0ZLUuiAgusabQ0aydqvVIsbYnLkoRZyH8Wm4uDXNEv-tEA/viewform?usp=sf_link). Follow the instructions found in the [How to Submit Homework](https://git.generalassemb.ly/SEIR-Erica/class-info/wiki/How-to-Submit-Homework) page on the wiki.
-
+3) **Submit:** via the [Homework Submissions Google Form](hhttps://forms.gle/idxhwRUP9hQFz24z7). 
